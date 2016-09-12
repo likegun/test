@@ -1,0 +1,11 @@
+
+{
+  "node": true,
+  "expr": true,
+  "asi": true,
+  "predef": ["-Promise"],
+  "quotmark": false,
+  "esnext": true,
+  "mocha": true,
+  "esversion": 6
+}
