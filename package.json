@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/likegun/test#readme",
   "dependencies": {
+    "co": "^4.6.0",
+    "express": "^4.14.0",
     "restify": "^4.1.1"
   }
 }
